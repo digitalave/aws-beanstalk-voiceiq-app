@@ -1,0 +1,8 @@
+aws_access_key_id         = "SECRET_KEY_ID"
+aws_secret_access_key     = "SECRET_ACCESS_KEY"
+vpc_region                = "ap-southeast-1"
+vpc_voiceiq               = "VoiceIQ"
+vpc_cidr_block            = "172.25.0.0/16"
+vpc_public_subnet_1_cidr  = "172.25.10.0/24"
+vpc_access_from_ip_range  = "0.0.0.0/0"
+vpc_private_subnet_1_cidr = "172.25.20.0/24"
